@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ivan Stefanov</h1>
 <h3 align="center">A passionate back-end developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanstefanov-it&label=Profile%20views&color=0e75b6&style=flat" alt="ivanstefanov-it" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m junior .Net developer,but currently I'm learning **JavaScript** because I want to become a **fullstack developer.**
 
-- 👨‍💻 All of my projects are available at [https://ivanstefanov-it.github.io/](https://ivanstefanov-it.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/ivanstefanov-it?tab=repositories](https://github.com/ivanstefanov-it?tab=repositories)
 
-- 📫 How to reach me **ivanstefanov.it@gmail.com**
+- 📫 How to reach me **ivanstefanov.it@gmail.com or https://ivanstefanov-it.github.io/**
 
 - 📄 Know about my experiences [https://ivanstefanov-it.github.io/IvanStefanovResume.pdf](https://ivanstefanov-it.github.io/IvanStefanovResume.pdf)
 
