@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Stefanov</h1>
-<h3 align="center">A passionate back-end developer from Bulgaria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanstefanov-it&label=Profile%20views&color=0e75b6&style=flat" alt="ivanstefanov-it" /> </p>
+<h3 align="center">A passionate back-end developer</h3>
 
 - 🌱 I’m junior .Net developer,but currently I'm learning **JavaScript** because I want to become a **fullstack developer.**
 
