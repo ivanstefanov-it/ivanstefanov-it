@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Stefanov</h1>
-<h3 align="center">A passionate back-end developer</h3>
+<h3 align="center">A passionate iOS developer</h3>
 
-- 🌱 I’m junior .Net developer,but currently I'm learning **JavaScript** because I want to become a **fullstack developer.**
+- 🏦 Currently developing iOS applications for one of the largest banks in the Netherlands
+- 🍎 Passionate about **Swift**, **SwiftUI**, and creating exceptional mobile experiences
+- 💼 Background in .NET development
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivanstefanov-it?tab=repositories](https://github.com/ivanstefanov-it?tab=repositories)
 
