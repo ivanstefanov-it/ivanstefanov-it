@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Stefanov</h1>
 <h3 align="center">A passionate iOS developer</h3>
 
-- 🏦 Currently developing iOS applications for one of the largest banks in the Netherlands
+- 🏦 Currently developing iOS applications for one of the largest digital banks in the Netherlands
 - 🍎 Passionate about **Swift**, **SwiftUI**, and creating exceptional mobile experiences
 - 💼 Background in .NET development
 
